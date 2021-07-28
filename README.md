@@ -11,6 +11,7 @@
 
 <img align="right" alt="PNG" src="https://github.com/oscillator25/oscillator25/blob/main/assets/computing.png" width="408" height="318" />
 
+</br>
 
 👨🏻‍💻 Building India's First P2P Disaster Resilience Platform.
 
