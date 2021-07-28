@@ -1,4 +1,7 @@
 ### Hi there, Myself <a href="#" target="_blank">Pratyaksh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img align="right" alt="PNG" src="https://github.com/oscillator25/oscillator25/blob/main/assets/computing.png" width="408" height="318" />
+
 [![Linkedin Badge](https://img.icons8.com/fluent/32/ffffff/linkedin.png)](https://linkedin.com/in/oscillator25)
 [![Twitter Badge](https://img.icons8.com/fluent/32/ffffff/twitter.png)](https://twitter.com/oscillator25)
 [![Facebook Badge](https://img.icons8.com/fluent/32/ffffff/facebook.png)](https://facebook.com/oscillator25)
@@ -7,11 +10,6 @@
 [![Website Badge](https://img.icons8.com/carbon-copy/32/ffffff/domain.png)](https://xtressials.tech)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oscillator25.oscillator25)
-
-
-<img align="right" alt="PNG" src="https://github.com/oscillator25/oscillator25/blob/main/assets/computing.png" width="408" height="318" />
-  
-
 
 
 👨🏻‍💻 Building India's First P2P Disaster Resilience Platform.
