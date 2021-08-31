@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.icons8.com/fluent/32/ffffff/instagram-new.png)](https://instagram.com/oscillator25_)
 [![Medium Badge](https://img.icons8.com/ios-glyphs/32/ffffff/medium-monogram.png)](https://medium.com/@oscillator25)
 [![Website Badge](https://img.icons8.com/carbon-copy/32/ffffff/domain.png)](https://xtressials.tech)
-[![Website Badge](https://img.icons8.com/color/32/ffffff/gitlab.png)](https://gitlab.com/oscillator25)
+<!--[![Website Badge](https://img.icons8.com/color/32/ffffff/gitlab.png)](https://gitlab.com/oscillator25)-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oscillator25.oscillator25)
 
